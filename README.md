@@ -1,5 +1,8 @@
-** Shawn Zhang **
+## Shawn Zhang
 This branch is for lab3 and is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template
+
+
+
 
 # Assignment 1: Education Pathway
 
